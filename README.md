@@ -193,26 +193,6 @@ https://colab.research.google.com/github/BosenkoTM/Big-data-analysis-methods/blo
 
 8. **Scikit-learn User Guide: Machine Learning in Python**. — [Официальная документация](https://scikit-learn.org/stable/user_guide.html).
 
-## Структура репозитория
-
-```text
-.
-├── README.md
-└── 2026
-    ├── lectures
-    │   ├── lecture_01.md
-    │   ├── lecture_02.md
-    │   ├── lecture_03.md
-    │   └── lecture_04.md
-    └── lw
-        ├── lw_01
-        │   └── lw_01.md
-        ├── lw_02
-        │   └── lw_02.md
-        └── lw_03
-            └── lw_03.md
-```
-
 ## Лицензия
 
 Материалы репозитория распространяются на условиях **MIT License**, если для отдельных внешних датасетов, публикаций или программных компонентов не указаны иные условия использования.
