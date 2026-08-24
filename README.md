@@ -40,7 +40,8 @@
 
 ## Дорожная карта обучения
 
-```flowchart TD
+```mermaid
+flowchart TD
     A["Мини-лекции<br/>Big Data · Data Quality<br/>CRISP-DM · ML · NLP"]
     B["Выбор<br/>индивидуального варианта"]
 
