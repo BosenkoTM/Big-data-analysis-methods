@@ -551,15 +551,17 @@ learning
 ## Концептуальная карта дисциплины «Методы анализа больших данных»
 
 
+## Концептуальная карта дисциплины «Методы анализа больших данных»
+
 ```mermaid
 mindmap
   root((Big Data))
-    Образовательные данные
+    Educational Data Science
       EDM
       Learning Analytics
       Digital Footprint
       MMLA
-    Жизненный цикл данных
+    Data Lifecycle
       CSV
       JSON
       Parquet
@@ -580,12 +582,12 @@ mindmap
       LDA
       BERTopic
       Essay Analysis
-    Ответственная аналитика
+    Responsible Analytics
       Privacy
       Data Minimization
       Fairness
       Human-in-the-Loop
-
+```
 ---
 
 # Общие выводы
